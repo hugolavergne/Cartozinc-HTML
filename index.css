@@ -56,11 +56,15 @@
   max-width: 450px;
   align-self: center;
 }
+.home-link {
+  display: contents;
+}
 .home-image1 {
   width: 80%;
   height: 90%;
   align-self: center;
   object-fit: cover;
+  text-decoration: none;
 }
 .home-hero1 {
   width: 100%;
@@ -90,11 +94,15 @@
   max-width: 450px;
   align-self: center;
 }
+.home-link1 {
+  display: contents;
+}
 .home-image2 {
   width: 80%;
   height: 90%;
   align-self: center;
   object-fit: cover;
+  text-decoration: none;
 }
 .home-hero2 {
   width: 100%;
@@ -124,11 +132,15 @@
   max-width: 450px;
   align-self: center;
 }
+.home-link2 {
+  display: contents;
+}
 .home-image3 {
   width: 80%;
   height: 90%;
   align-self: center;
   object-fit: cover;
+  text-decoration: none;
 }
 .home-hero3 {
   width: 100%;
@@ -158,11 +170,15 @@
   max-width: 450px;
   align-self: center;
 }
+.home-link3 {
+  display: contents;
+}
 .home-image4 {
   width: 80%;
   height: 90%;
   align-self: center;
   object-fit: cover;
+  text-decoration: none;
 }
 .home-hero4 {
   width: 100%;
@@ -193,11 +209,15 @@
   max-width: 450px;
   align-self: center;
 }
+.home-link4 {
+  display: contents;
+}
 .home-image5 {
   width: 80%;
   height: 90%;
   align-self: center;
   object-fit: cover;
+  text-decoration: none;
 }
 .home-hero5 {
   width: 100%;
@@ -230,11 +250,15 @@
   align-self: center;
   text-align: center;
 }
+.home-link5 {
+  display: contents;
+}
 .home-image6 {
   width: 80%;
   height: 90%;
   align-self: center;
   object-fit: cover;
+  text-decoration: none;
 }
 .home-footer {
   width: 100%;
