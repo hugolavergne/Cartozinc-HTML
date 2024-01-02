@@ -226,15 +226,11 @@
   max-width: 450px;
   align-self: center;
 }
-.home-link {
-  display: contents;
-}
 .home-image6 {
   width: 80%;
   height: 90%;
   align-self: center;
   object-fit: cover;
-  text-decoration: none;
 }
 .home-footer {
   width: 100%;
@@ -350,6 +346,8 @@
     flex-direction: column;
   }
   .home-container5 {
+    width: 806px;
+    height: 780px;
     align-items: center;
     margin-right: 0px;
     margin-bottom: var(--dl-space-space-twounits);
@@ -363,6 +361,7 @@
   .home-image5 {
     width: 80%;
     height: 90%;
+    padding-top: 0px;
   }
   .home-hero5 {
     flex-direction: column;
@@ -627,7 +626,7 @@
   }
   .home-image5 {
     width: 313px;
-    height: 90%;
+    height: 433px;
     margin-top: var(--dl-space-space-unit);
     margin-bottom: var(--dl-space-space-unit);
   }
